@@ -1,1 +1,1 @@
-Teaching about slicing for IDN egypt student in first time
+UI slicing practice for IDN Mesir students - From design to clean HTML & CSS code
